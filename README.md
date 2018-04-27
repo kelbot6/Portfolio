@@ -18,7 +18,11 @@ From this, I learned that users often do not follow the same process as the appl
 Next time, I would conduct a larger usability study from a wider variety of disciplines to make sure I had as much diverse feedback as possible.
 
 
-The final document, Use Cases, is also from the Honors Program web application.  These are based off the requirements for the 
+The final document, Use Cases, is also from the Honors Program web application.  These are based off the requirements provided by the client.  This document details how a user can access certain portions of the application, as well as alternate pathways depending on several factors.  
+
+I learned that there can often be many different routes to one portion of an application, even if the intended pathway is relatively simple.  
+
+Next time, I would like to do more use cases to more fully represent the possible methods to complete all tasks within the application, as this representation would allow for a better idea of designing the application.
 
 Additional projects can be found within the goldMine and PascalsAdventure respositories.
 
